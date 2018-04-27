@@ -1,0 +1,9 @@
+{
+  "accounts":[
+    {"screen_name": "batman", "influencer": "Bruce Wayne", "photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0W6oYaVBS5nSGFZudgbS0zF6wc8tlmdHH_gE9JJvaQ4TmQmYMmQ", "provider": "instagram", "categories": ["Tech","Lifestyle","Photography","Travel","Healthy Food"]},
+    {"screen_name": "superman", "influencer": "Clark Kent", "photo_url": "https://lc-www-live-s.legocdn.com/r/www/r/catalogs/-/media/catalogs/characters/lbm%20characters/2018%201hy/primary%20images/superman_1to1_360_480.png?l.r2=-1093298492", "provider": "twitter", "categories": []},
+    {"screen_name": "spiderman", "influencer": "Peter", "photo_url": "https://i.pinimg.com/originals/be/a5/9f/bea59fbe919436a3ca0cf07980847626.png", "provider": "instagram", "categories": ["Technology","Lifestyle","Photography","Travel","Healthy Food"]},
+    {"screen_name": "blackspiderman", "influencer": "Peter", "photo_url": "https://vignette.wikia.nocookie.net/lego/images/1/1b/Venom1.jpg/revision/latest?cb=20120713175704", "provider": "instagram", "categories": ["Technology","Lifestyle","Photography","Travel","Healthy Food"]}
+  ]
+}
+
